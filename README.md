@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G-Bik aka Gustut Biksa
-- 👀 I’m interested in Full Stack Developer and Backend Developer, SQL Databases, Python as Backend, and All skill for the role.
+- 👀 I’m interested in Full Stack Developer and Backend Developer, SQL Databases, Python as Backend, and all skill for the role.
 - 🌱 I’m currently learning HTML, CSS and Javascript based on learning Roadmap.sh to becoming Backend Developer
 - 💞️ I’m looking to get hired on company that give me a chance to role as Backend Developer, it's will awsome to me
   
